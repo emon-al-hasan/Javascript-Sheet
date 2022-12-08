@@ -19,3 +19,4 @@ document.getElementById('reset').onclick=function()
   count=0;
     document.getElementById('label1').innerText=count;
 }
+// Increase,Decrease,Reset work
